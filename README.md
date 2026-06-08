@@ -3,9 +3,6 @@
 
 A comprehensive educational repository demonstrating MapReduce concepts and Apache Spark's distributed computing capabilities with real-world examples, performance benchmarks, and production-ready code.
 
-## 📌 Description (250 characters)
-
-> MapReduce implementations from scratch + Apache Spark demos. Word count, aggregations, sales analytics, customer segmentation. Fair Pandas vs Spark performance comparison. Big data processing fundamentals.
 
 ## 🎯 Overview
 
